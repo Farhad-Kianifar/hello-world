@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository that I made it just for test purposes.
+I hope this can help me to understand the concept of repository and the rest. Insha allah ...
